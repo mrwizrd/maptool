@@ -68,6 +68,7 @@ def main():
 				revert(wotdir+"/"+f)
 	else : 
 		print "Command not recognized. Goodbye :)"
+	print "Done!"
 
 if __name__ == "__main__":
 	main()
